@@ -211,17 +211,11 @@ No and yes. There will be two parts:
 Thanks to the course sponsors for making it possible to create this course
 
 <p align="center">
-  <a href="https://www.prefect.io/">
-    <img height="100" src="images/prefect.png">
+  <a href="https://mage.ai/">
+    <img height="120" src="https://github.com/DataTalksClub/data-engineering-zoomcamp/raw/main/images/mage.svg">
   </a>
 </p>
 
-
-<p align="center">
-  <a href="https://wandb.ai/">
-    <img height="100" src="https://datatalks.club/images/partners/wandb-abb.svg">
-  </a>
-</p>
-
+Do you want to support our course and our community? Reach out to [alexey@datatalks.club](alexey@datatalks.club)
 
 
